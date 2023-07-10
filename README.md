@@ -1,5 +1,5 @@
 # Segundo-desafio-do-7daysofcode-da-Alura
- Desafio após conclusão do curso de iniciantes em programção
+ Desafio após conclusão do curso de iniciantes em programação
 
  É importante entender como capturar e armazenar valores dentro de variáveis.
 
